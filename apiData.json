@@ -1,0 +1,224 @@
+[
+  {
+    "id": 0,
+    "name": "shoulder",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Pike Push-up",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/e7/67/f1/e767f1775ecefbc1ee5366162727da59.gif"
+      },
+      {
+        "id": 1,
+        "exercise": "Bear Crawls",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/d3/68/bc/d368bc3eed1096a934e7f711f578969b.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "Plank Step-up",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/49/09/e6/4909e674b612af76233c80b25956ce90.gif"
+      },
+      {
+        "id": 3,
+        "exercise": "inverted Shoulder Press",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/a0/62/45/a06245ae35f261838e8aa7eb133c080d.gif"
+      },
+      {
+        "id": 4,
+        "exercise": "Hand Stand",
+        "difficulty": "Hard",
+        "gif": "https://i.pinimg.com/564x/a7/c9/6a/a7c96ab228aa80691910cc16e826e657.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "neck",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Neck Stretch",
+        "difficulty": "Easy",
+        "gif": "https://i.pinimg.com/originals/72/63/92/726392b158efa5436bd1c94a6551143b.gif"
+      },
+      {
+        "id": 0,
+        "exercise": "Scapula Dips",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/e0/a9/69/e0a969ccbaa7e4ba8431076cf371c1c8.gif"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "back",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Wide Hand-Rise",
+        "difficulty": "Easy",
+        "gif": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/08/supermant-1472154358.gif?crop=1xw:1xh;center,top&resize=980:*"
+      },
+      {
+        "id": 1,
+        "exercise": "Wide Hand-Hold",
+        "difficulty": "Easy",
+        "gif": "https://i.pinimg.com/originals/7a/cb/16/7acb1673c15fa6bd83a00f81cf78adb5.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "pushup Handrise",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/14/42/8e/14428e6cde3be34c3d0d0041c88d39af.gif"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "cardio",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Jumping Jacks",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/57/cc/e0/57cce0afa73a4b4c9c8c139d08aec588.gif"
+      },
+      {
+        "id": 1,
+        "exercise": "High Knees",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/a6/8c/6a/a68c6ac541ae8b403a4b34cda93441e3.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "Spartacus Workout",
+        "difficulty": "hard",
+        "gif": "https://i.pinimg.com/originals/02/c4/47/02c447bc44152fc1f526a27ee7ae9140.gif"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "chest",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Push up",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/20/bd/95/20bd95eedf13ae9e111fe4e2953e0707.gif"
+      },
+      {
+        "id": 1,
+        "exercise": "Decline Push-up",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/06/bc/32/06bc32b9ecf8a2ff758df0efefacbe68.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "Diamond Push-up",
+        "difficulty": "medium",
+        "gif": "https://media.gq.com/photos/5b760715484efb4041cd65c6/master/w_1600%2Cc_limit/Scruggs-Chest-GIF8.gif"
+      },
+      {
+        "id": 3,
+        "exercise": "Incline Push-up",
+        "difficulty": "medium",
+        "gif": "https://cdn.shopify.com/s/files/1/1283/2557/files/best_chest_workout_at_home_1024x1024.gif?v=1589146479"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "arms",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Dips",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/9a/01/c8/9a01c80a9268c275ea47b684a5ab57db.gif"
+      },
+      {
+        "id": 1,
+        "exercise": "Forearms push-up",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/48/da/79/48da79042a1a23b3060e4fa684b8af90.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "Diamond push-up",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/8f/c4/ae/8fc4ae2101143b9d8cf56b70a95ca463.gif"
+      },
+      {
+        "id": 3,
+        "exercise": "Normal push-up",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/d6/60/bb/d660bb1ea52e12ac02f74ae5f114cbae.gif"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "legs",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Squat",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/f3/ce/9b/f3ce9b965b93a0f11ec522d0091cd8d8.gif"
+      },
+      {
+        "id": 1,
+        "exercise": "high Knees",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/ee/f4/89/eef4892f2fff756eadeceafd98fa401d.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "lift Run",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/64/8f/36/648f368d096be26e3a3a41f5c0bba6b8.gif"
+      },
+      {
+        "id": 3,
+        "exercise": "Backward Run",
+        "difficulty": "easy",
+        "gif": "https://i.pinimg.com/originals/6e/08/90/6e0890054219c2e6c4fce2c9e5e738ce.gif"
+      },
+      {
+        "id": 4,
+        "exercise": "plyo Jacks",
+        "difficulty": "Medium",
+        "gif": "https://i.pinimg.com/originals/5d/57/5b/5d575b7395e68f7e48fffb8c1483e7f9.gif"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Abs",
+    "exercises": [
+      {
+        "id": 0,
+        "exercise": "Toe Touch",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/79/dd/98/79dd9844813e8d94bfaf225e40dae2fb.gif"
+      },
+      {
+        "id": 1,
+        "exercise": "Plank",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/32/c9/33/32c933b1d094e0dcc49140dc823a6552.gif"
+      },
+      {
+        "id": 2,
+        "exercise": "mountain Climber",
+        "difficulty": "medium",
+        "gif": "https://i.pinimg.com/originals/a8/73/6b/a8736bcec4c9a40d761327663cdeeab9.gif"
+      }
+    ]
+  }
+]
