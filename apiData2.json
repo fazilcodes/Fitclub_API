@@ -1,0 +1,344 @@
+[
+    {
+      "id": 0,
+      "name": "chest",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Svend Press",
+          "gif_url": "https://i.pinimg.com/originals/f5/07/a1/f507a173b4a8383cf04b56036c756c15.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "medium",
+          "exercise": "Barbell Bench Press",
+          "gif_url": "https://i.pinimg.com/originals/8e/34/bb/8e34bb41d30ceb2f65aa7873a87a4371.gif"
+        },
+        {
+          "id": 2,
+          "difficulty": "medium",
+          "exercise": "Dembell Chest Press",
+          "gif_url": "https://i.pinimg.com/originals/a6/51/e7/a651e74bebe6c881a895532f10af5c16.gif"
+        },
+        {
+          "id": 3,
+          "difficulty": "easy",
+          "exercise": "Butterfly",
+          "gif_url": "https://i.pinimg.com/originals/ef/47/2a/ef472a120a9b808d570a563a7f232c1f.gif"
+        },
+        {
+          "id": 4,
+          "difficulty": "Hard",
+          "exercise": "Decline Cable Fly",
+          "gif_url": "https://i.pinimg.com/originals/5c/1f/ce/5c1fcec6439664e9870937980f295098.gif"
+        },
+        {
+          "id": 5,
+          "difficulty": "Hard",
+          "exercise": "Landmine Push",
+          "gif_url": "https://i.pinimg.com/originals/5c/1f/ce/5c1fcec6439664e9870937980f295098.gif"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "shoulder",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Reverse Cable Fly",
+          "gif_url": "https://i.pinimg.com/originals/4a/02/24/4a02247b6a5db025b43cbe82cade87fc.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "hard",
+          "exercise": "shoulder press",
+          "gif_url": "https://i.pinimg.com/originals/a0/62/45/a06245ae35f261838e8aa7eb133c080d.gif"
+        },
+        {
+          "id": 2,
+          "difficulty": "medium",
+          "exercise": "Machine shoulder press",
+          "gif_url": "https://i.pinimg.com/originals/ab/9c/6b/ab9c6b8407732e2b5499432ddb2ada43.gif"
+        },
+        {
+          "id": 3,
+          "difficulty": "easy",
+          "exercise": "Arm Circle",
+          "gif_url": "https://i.pinimg.com/originals/51/ae/a1/51aea1df721b5434b30d8ceb618446be.gif"
+        },
+        {
+          "id": 4,
+          "difficulty": "medium",
+          "exercise": "Incline LandMine",
+          "gif_url": "https://i.pinimg.com/originals/78/d9/a6/78d9a6eaab1b5a60984fa93e2473a33c.gif"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "triceps",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "hard",
+          "exercise": "Triceps Extension",
+          "gif_url": "https://i.pinimg.com/originals/2c/62/ba/2c62ba80d37c94d06ad6d60f1e5445df.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "medium",
+          "exercise": "Sign in",
+          "gif_url": "https://i.pinimg.com/originals/f4/d7/2e/f4d72e70f7afd945ea338c2747012fbf.gif"
+        },
+        {
+          "id": 2,
+          "difficulty": "Hard",
+          "exercise": "Lying Arm Extension",
+          "gif_url": "https://i.pinimg.com/564x/5e/7f/75/5e7f75725f464588a1b1820edda20099.jpg"
+        },
+        {
+          "id": 3,
+          "difficulty": "Hard",
+          "exercise": "Barbell Lying Back",
+          "gif_url": "https://i.pinimg.com/originals/22/6a/83/226a839d556fbde649b6803e3fd3e646.gif"
+        },
+        {
+          "id": 4,
+          "difficulty": "easy",
+          "exercise": "Cable rear-Drive ",
+          "gif_url": "https://i.pinimg.com/originals/ee/08/d3/ee08d399395309dc1ddf68f41d30295b.gif"
+        },
+        {
+          "id": 5,
+          "difficulty": "easy",
+          "exercise": "Cable one arm ",
+          "gif_url": "https://i.pinimg.com/originals/59/58/ae/5958ae2f6677508f2c923ceccff7b92c.gif"
+        },
+        {
+          "id": 6,
+          "difficulty": "easy",
+          "exercise": "Cable Pull Down",
+          "gif_url": "https://i.pinimg.com/originals/58/9f/cd/589fcdac50ce9b6203ac1e0823ffe444.gif"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "forearms",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Dumbell hold",
+          "gif_url": "https://i.pinimg.com/originals/df/5b/ce/df5bce88abef37d6dc3f8a5d2485930b.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "easy",
+          "exercise": "Reverse Grip",
+          "gif_url": "https://i.pinimg.com/originals/83/52/67/835267b170d3d4e4a4df2f024c06b85d.gif"
+        },
+        {
+          "id": 2,
+          "difficulty": "hard",
+          "exercise": "Reverse Barbell",
+          "gif_url": "https://i.pinimg.com/originals/5c/e8/16/5ce8166f5c0f463f751756f7add8f6d3.gif"
+        },
+        {
+          "id": 3,
+          "difficulty": "Medium",
+          "exercise": "Scott Curls",
+          "gif_url": "https://i.pinimg.com/originals/2f/bb/1d/2fbb1dbef5524df3ff90af6996a474f9.gif"
+        },
+        {
+          "id": 4,
+          "difficulty": "medium",
+          "exercise": "Incline One-Dumbell",
+          "gif_url": "https://i.pinimg.com/originals/0a/b1/b1/0ab1b10609c888e8c94218d0ace299a2.gif"
+        },
+        {
+          "id": 5,
+          "difficulty": "hard",
+          "exercise": "Z-bar curl",
+          "gif_url": "https://i.pinimg.com/originals/81/81/fa/8181facd8c9fa3db80231a2936cb59cd.gif"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "calves",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "medium",
+          "exercise": "Seated Calf-raise",
+          "gif_url": "https://i.pinimg.com/originals/7b/96/51/7b9651f3ad4c05bab422a7fece5e470a.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "medium",
+          "exercise": "Tibialis Stretch",
+          "gif_url": "https://i.pinimg.com/originals/39/52/ba/3952baf25b0dcd660da1e8ce46c2de1a.gif"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "hamstring",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Cable Press",
+          "gif_url": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "quadriceps",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Cable Press",
+          "gif_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "glutes",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Cable Press",
+          "gif_url": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "biceps",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "easy",
+          "exercise": "Seated Curls",
+          "gif_url": "https://i.pinimg.com/originals/88/3d/06/883d061da85cd5b7bc90b59ec8e35194.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "medium",
+          "exercise": "Flexor Dumbell Curls",
+          "gif_url": "https://i.pinimg.com/originals/b4/30/64/b43064d9ad9f42493dbcf37e653ab87c.gif"
+        },
+        {
+          "id": 2,
+          "difficulty": "hard",
+          "exercise": "Incline Cable Curl",
+          "gif_url": "https://i.pinimg.com/originals/c6/97/f9/c697f96e6ade03f2f078a5a419899d31.gif"
+        },
+        {
+          "id": 3,
+          "difficulty": "medium",
+          "exercise": "Preacher Curl",
+          "gif_url": "https://i.pinimg.com/originals/47/34/3d/47343d961ba4958cf640a46b8a26f799.gif"
+        },
+        {
+          "id": 4,
+          "difficulty": "medium",
+          "exercise": "lever Curl",
+          "gif_url": "https://i.pinimg.com/originals/b6/ea/17/b6ea17377640b9bb77068888388b5d0a.gif"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "back",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "medium",
+          "exercise": "Seated Row",
+          "gif_url": "https://i.pinimg.com/originals/48/c2/2c/48c22c8fcbc6961f6ffd304ed168f173.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "easy",
+          "exercise": "Cable Curl",
+          "gif_url": "https://i.pinimg.com/originals/46/5e/98/465e98c629fa27038c07aac97a6bc787.gif"
+        },
+        {
+          "id": 2,
+          "difficulty": "easy",
+          "exercise": "Seated Cable Curl",
+          "gif_url": "https://i.pinimg.com/originals/b4/3e/5a/b43e5a76fe5b2722544e56f58f138b29.gif"
+        },
+        {
+          "id": 3,
+          "difficulty": "medium",
+          "exercise": "Barbell back Curl",
+          "gif_url": "https://i.pinimg.com/originals/a2/cf/5d/a2cf5d462de2446fd77c2237fe21f35e.gif"
+        },
+        {
+          "id": 4,
+          "difficulty": "hard",
+          "exercise": "Reverse Grip",
+          "gif_url": "https://i.pinimg.com/originals/29/2c/69/292c69b3e0ce8362aa33083ca75f666d.gif"
+        },
+        {
+          "id": 5,
+          "difficulty": "medium",
+          "exercise": "Pull ups",
+          "gif_url": "https://i.pinimg.com/originals/45/24/96/45249674bf89054624a9c95e19ae751a.gif"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "abdominals",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "medium",
+          "exercise": "Cable Reverse",
+          "gif_url": "https://i.pinimg.com/originals/54/68/d5/5468d5032b585e2e6682f9257d27d568.gif"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "traps",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "medium",
+          "exercise": "Barbell Shrug",
+          "gif_url": "https://i.pinimg.com/originals/fe/a5/af/fea5af88cca2ae9f4b1a940b106cbdcf.gif"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "lats",
+      "workouts": [
+        {
+          "id": 0,
+          "difficulty": "medium",
+          "exercise": "Dumbell Seal Row",
+          "gif_url": "https://i.pinimg.com/originals/38/59/23/3859233fc9656123b74402402a066eba.gif"
+        },
+        {
+          "id": 1,
+          "difficulty": "medium",
+          "exercise": "T Bar Row",
+          "gif_url": "https://i.pinimg.com/originals/35/ad/73/35ad7310a503c4d6f4230669275bbdbe.gif"
+        }
+      ]
+    }
+  ]
