@@ -3,7 +3,10 @@ const data = require('./apiData.json');
 const data2 = require('./apiData2.json')
 require('dotenv').config();
 
+const cors = require('cors')
+
 const app = express();
+app.use(cors())
 
 // middleWare
 const checkAuth = (req, res, next) => {
